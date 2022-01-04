@@ -2,9 +2,14 @@ body{
     margin: 0;
     font-family: 'Lora', serif;
 }
-#section{
+section{
     height: 500px;
     padding-bottom: 150px;
+}
+#section-top{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    
 }
 h1{
   
@@ -15,6 +20,7 @@ span{
 }
 p{
    text-align: justify;
+   color: dimgray;
 }
 
 .header{
