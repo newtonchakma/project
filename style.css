@@ -46,13 +46,28 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
-#experiences{
+#experiences .ex-header{
+ text-align: center;
+ font-size: 40px;
+ text-transform: uppercase;
+ font-weight: bold;
 
+}
+#experiences hr{
+    width: 300px;
+    background-color: rgb(161, 134, 12);
+    height: 7px;
+    margin-top: 0px;
+    padding-top: 0;
+    margin-bottom: 25px;
 }
 #experiences div{
    
  box-shadow: 5px 7px 40px gray;
  height:80%;
+ border-radius: 15px;
+ padding-right: 20px;
+ margin-top: 20px;
  
 }
 #full-stack{
@@ -70,7 +85,7 @@ p{
     background-repeat: no-repeat;
    background-position: left;
 }
-footer p{
+footer h2{
     text-align: center;
     font-weight: bold;
 }
