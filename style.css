@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: 'Lora', serif;
+}
+#section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+h1{
+  
+    font-size:50px;
+}
+span{
+  color: orange;
+}
+p{
+   text-align: justify;
+}
+
+.header{
+ width:40%;
+ float:left;
+ margin-left: 5%;
+ padding-left: 2%;
+}
+.header img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background:linear-gradient(45deg, lightsalmon, tomato);
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+}
