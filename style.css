@@ -40,3 +40,8 @@ p{
     color: white;
     border-radius: 5px;
 }
+#Dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
